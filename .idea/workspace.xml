@@ -7,12 +7,12 @@
     </list>
     <ignored path="first_app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Gemfile" changelist="19722560-18f7-445f-8752-42418449cdfb" time="1362432456903" ignored="false" />
-    <file path="/a.feature" changelist="19722560-18f7-445f-8752-42418449cdfb" time="1361503641676" ignored="false" />
-    <file path="/a.css" changelist="19722560-18f7-445f-8752-42418449cdfb" time="1361503647931" ignored="false" />
-    <file path="/a.rxml" changelist="19722560-18f7-445f-8752-42418449cdfb" time="1361503670788" ignored="false" />
-    <file path="/a.html" changelist="19722560-18f7-445f-8752-42418449cdfb" time="1361503659864" ignored="false" />
-    <file path="/a.coffee" changelist="19722560-18f7-445f-8752-42418449cdfb" time="1361503664078" ignored="false" />
+    <file path="/Gemfile" changelist="19722560-18f7-445f-8752-42418449cdfb" time="1362433498690" ignored="false" />
+    <file path="/a.feature" changelist="19722560-18f7-445f-8752-42418449cdfb" time="1362433582401" ignored="false" />
+    <file path="/a.css" changelist="19722560-18f7-445f-8752-42418449cdfb" time="1362433581316" ignored="false" />
+    <file path="/a.rxml" changelist="19722560-18f7-445f-8752-42418449cdfb" time="1362433577941" ignored="false" />
+    <file path="/a.html" changelist="19722560-18f7-445f-8752-42418449cdfb" time="1362433584094" ignored="false" />
+    <file path="/a.coffee" changelist="19722560-18f7-445f-8752-42418449cdfb" time="1362433580634" ignored="false" />
     <file path="/a.js" changelist="19722560-18f7-445f-8752-42418449cdfb" time="1361503697163" ignored="false" />
     <file path="/a.less" changelist="19722560-18f7-445f-8752-42418449cdfb" time="1361503702839" ignored="false" />
     <file path="/a.sql" changelist="19722560-18f7-445f-8752-42418449cdfb" time="1361503740716" ignored="false" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="30" selection-start="639" selection-end="639" vertical-scroll-proportion="0.6556474">
+            <state line="30" column="20" selection-start="684" selection-end="684" vertical-scroll-proportion="0.70247936">
               <folding />
             </state>
           </provider>
@@ -526,7 +526,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="30" selection-start="639" selection-end="639" vertical-scroll-proportion="0.6556474">
+        <state line="30" column="20" selection-start="684" selection-end="684" vertical-scroll-proportion="0.70247936">
           <folding />
         </state>
       </provider>
